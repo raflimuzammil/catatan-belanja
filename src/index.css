@@ -89,7 +89,7 @@ button {
 }
 
 .list {
-  background-image: url(img/paper-bg.jpg);
+  background-image: url(assets/img/paper-bg.jpg);
   background-repeat: repeat-y;
   background-size: 100%;
   /* background-attachment: local; */
